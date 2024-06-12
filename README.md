@@ -6,4 +6,4 @@ Content:
 
 [CLM with Statistics](./CLM_with_Statistics.ipynb)
 
-[CLM with Machine Learning][./CLM_with_ML.ipynb]
+[CLM with Machine Learning](./CLM_with_ML.ipynb)
